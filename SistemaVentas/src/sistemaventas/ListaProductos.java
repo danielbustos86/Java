@@ -28,7 +28,7 @@ public class ListaProductos {
      
    
     public Producto RegresaObje(int pos){
-        
+        //Este metodo devuelve un objeto
         return Productos.get(pos);
     }
     
